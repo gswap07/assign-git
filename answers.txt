@@ -8,4 +8,4 @@
 -->To ensure multiple developers can work on same project concurrently and isolate their work. Each member can create a new branch from latest master branch and add their work. The child branch can be merged to the master branch by creating a pull request.
 
 • In a project how many remote Git repositories do you usually have?
---> Usually there is only 1 git repository per project.
+--> Usually there is only 1 git repository per project but there can also be mutliple remote repositories through which developers can collaborate tasks.
